@@ -1,9 +1,10 @@
 flask
 flask-sqlalchemy
 flask-cors
-gunicorn
-psycopg2-binary
 flask-jwt-extended
-python-dotenv
 flask-migrate
 flask-limiter
+python-dotenv
+gunicorn
+psycopg2-binary
+redis
